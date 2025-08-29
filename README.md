@@ -2,6 +2,9 @@
 
 This Spring Boot application fulfills the requirements for the Bajaj Finserv Health Qualifier 1 assignment.
 
+GitHub Repository: https://github.com/BaibhavSureka/bajaj-finserv-health-assignment.git
+Public JAR Link: https://github.com/BaibhavSureka/bajaj-finserv-health-assignment/releases/download/v1.0.0/health-assignment-0.0.1-SNAPSHOT.jar
+
 ## Overview
 
 The application automatically:
